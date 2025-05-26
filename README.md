@@ -25,6 +25,6 @@ I'm an aspiring developer passionate about open-source projects, building web ap
 
 ## 📫 Get in Touch
 - **Email:** [singra01@gettysburg.edu](mailto:singra01@gettysburg.edu)
-- **GitHub:** [@YourGitHubUsername](https://github.com/RajwatSingh)
+- **GitHub:** [@RajwatSingh](https://github.com/RajwatSingh)
 
 Let's connect, collaborate, and build something amazing together! 🚀
