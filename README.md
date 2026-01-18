@@ -55,10 +55,9 @@
 - **Machine Learning:** Integrated a Scikit-Learn model to classify user audio responses as "Dementia" or "Non-Dementia" with high accuracy.
 - **Impact:** Designed a prompt-based, 10-question assessment to make screening accessible and non-invasive.
 
-### **Treasurer Console** (In Progress)
+### **Palmedes** (In Progress)
 *Django, HTML, Python*
 - Developing a financial management web app for student organizations.
-- Features include: "Single Transaction" entry, "Bulk Mass Charge" capabilities, and automated email notifications for due payments.
 
 ### **Mancala AI Bot**
 *Java, Algorithms*
